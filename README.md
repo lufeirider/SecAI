@@ -5,6 +5,10 @@
 
 [大模型之插件生态安全](https://mp.weixin.qq.com/s?__biz=MzU1NzkwMzUzNg==&mid=2247483862&idx=1&sn=ab079b67a0ab064bd0741cc78042f917&chksm=fc2ffa09cb58731f2bb461448e82d91d81b2e303025d29d13ac216fd70c45c92735b305845fb&token=176067789&lang=zh_CN#rd)
 
+[大模型之版权争议：纽约时报起诉OpenAI侵权，索赔数十亿美元](https://mp.weixin.qq.com/s?__biz=MzU1NzkwMzUzNg==&mid=2247483849&idx=1&sn=5de1157e9364b6a3d5c3f0c8b281e3c9&chksm=fc2ffa16cb5873004068d330d7131b5825f331976bb8609049c1432e7c191a92a4bd0cebea1d&token=176067789&lang=zh_CN#rd)
+
+[大模型安全-你与AI的对话内容有可能被围观](https://mp.weixin.qq.com/s?__biz=MzU1NzkwMzUzNg==&mid=2247483890&idx=1&sn=d3485f2891fa5e16648c07933e589fd8&chksm=fc2ffa2dcb58733bca70bc22de2b94d6764ce5fffa0b9afbcf1cb5ad81140bfc08fc3c391b0f&token=176067789&lang=zh_CN#rd)
+
 # AI在蓝军/红队运用
 [AI在“攻”的一些探索](https://mp.weixin.qq.com/s?__biz=MzU1NzkwMzUzNg==&mid=2247483997&idx=1&sn=cb80d0842999d55e28202f3ef5e6e277&chksm=fc2ff982cb58709470475eab7ce73342f145dde5e8207205fb11ddc89d1933f66c0671ebcae9&token=176067789&lang=zh_CN)
 
