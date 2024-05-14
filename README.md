@@ -19,6 +19,14 @@
 [AI落地-蓝军之默认密码（二）](https://mp.weixin.qq.com/s?__biz=MzU1NzkwMzUzNg==&mid=2247483833&idx=1&sn=4057e6784ae1e9998d46b1c554d4d2ee&chksm=fc2ffa66cb587370639ae968b7a6302cd8747ada2f36cc626d991aa3b3aeff0212cd221e2281&token=176067789&lang=zh_CN#rd)
 
 # AI在安全防护运用
+[深信服安全GPT-助力安全领先一步](https://www.securitygpt.com.cn/)
+
+[QAX-GPT 安全大模型](https://qgpt.qianxin.com/)
+
+[Google 威胁情报简介：Google 规模的可操作威胁情报 |谷歌云博客](https://cloud.google.com/blog/products/identity-security/introducing-google-threat-intelligence-actionable-threat-intelligence-at-google-scale-at-rsa)
+
+[揭秘：大模型如何助力安全运营](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247511294&idx=1&sn=c0e9781eac3f4a7d1036590e9742b7f2&chksm=c144de43f6335755a8a5525ab1ebb21bfb7a76e30b422fb3b554bac3a240fe82233a5177a3fa&mpshare=1&scene=1&srcid=0509rSXkKhyp5n0XQUKaIO3E&sharer_shareinfo=18201b8666a49de50f5c5bb84a633417&sharer_shareinfo_first=18201b8666a49de50f5c5bb84a633417&version=4.1.22.99447&platform=mac#rd)
+
 [白泽团队：探索用LLM提高漏洞库质量](https://mp.weixin.qq.com/s/hrzPUEydpQQbgbM8UdvDQA)
 
 [揭秘：大模型如何助力安全运营](https://mp.weixin.qq.com/s/aG6G2Oo9F0Ue0SzzDr_tgw)
