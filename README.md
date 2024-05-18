@@ -40,5 +40,7 @@
 
 [Clouditera/SecGPT: SecGPT网络安全大模型](https://github.com/Clouditera/SecGPT)
 
+[Clouditera/SecGPT: SecGPT网络安全大模型](https://github.com/Clouditera/SecGPT)
+
 # 其他
 [小心！最新AI看一眼照片就定位你在哪里，精确到经纬度](https://mp.weixin.qq.com/s/MIECFiew16Eeox_1Mki2IQ)
