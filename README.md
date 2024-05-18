@@ -18,6 +18,9 @@
 
 [AI落地-蓝军之默认密码（二）](https://mp.weixin.qq.com/s?__biz=MzU1NzkwMzUzNg==&mid=2247483833&idx=1&sn=4057e6784ae1e9998d46b1c554d4d2ee&chksm=fc2ffa66cb587370639ae968b7a6302cd8747ada2f36cc626d991aa3b3aeff0212cd221e2281&token=176067789&lang=zh_CN#rd)
 
+[ZacharyZcR/SecGPT: A Test Project for a Network Security-oriented LLM Tool Emulating AutoGPT](https://github.com/ZacharyZcR/SecGPT)
+
+
 # AI在安全防护运用
 [深信服安全GPT-助力安全领先一步](https://www.securitygpt.com.cn/)
 
@@ -34,6 +37,8 @@
 [腾讯混元大模型在研发安全漏洞修复的实践-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2394143)
 
 [代码安全新挑战！LLM4Decompile反编译大模型引发热议](https://mp.weixin.qq.com/s/nXMO4qparWcUEox5Mn3qIQ)
+
+[Clouditera/SecGPT: SecGPT网络安全大模型](https://github.com/Clouditera/SecGPT)
 
 # 其他
 [小心！最新AI看一眼照片就定位你在哪里，精确到经纬度](https://mp.weixin.qq.com/s/MIECFiew16Eeox_1Mki2IQ)
