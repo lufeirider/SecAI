@@ -18,8 +18,17 @@
 
 [AI落地-蓝军之默认密码（二）](https://mp.weixin.qq.com/s?__biz=MzU1NzkwMzUzNg==&mid=2247483833&idx=1&sn=4057e6784ae1e9998d46b1c554d4d2ee&chksm=fc2ffa66cb587370639ae968b7a6302cd8747ada2f36cc626d991aa3b3aeff0212cd221e2281&token=176067789&lang=zh_CN#rd)
 
+## AI自动挖洞
+
 [ZacharyZcR/SecGPT: A Test Project for a Network Security-oriented LLM Tool Emulating AutoGPT](https://github.com/ZacharyZcR/SecGPT)
 
+
+## SRC/赏金
+
+[aress31/burpgpt: A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.](https://github.com/aress31/burpgpt)
+
+
+[hisxo/ReconAIzer: A Burp Suite extension to add OpenAI (GPT) on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains and more!](https://github.com/hisxo/ReconAIzer)
 
 # AI在安全防护运用
 [深信服安全GPT-助力安全领先一步](https://www.securitygpt.com.cn/)
